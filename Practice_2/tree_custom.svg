@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="310">
+  <style>
+    .edge { stroke: #90CAF9; stroke-width: 2px; }
+    .node { fill: #E3F2FD; stroke: #1E88E5; stroke-width: 2px; }
+    .text { font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; dominant-baseline: central; fill: #0D47A1; font-weight: bold; }
+  </style>
+  <line class="edge" x1="310" y1="50" x2="110" y2="120" />
+  <line class="edge" x1="110" y1="120" x2="50" y2="190" />
+  <line class="edge" x1="110" y1="120" x2="110" y2="190" />
+  <line class="edge" x1="110" y1="120" x2="170" y2="190" />
+  <line class="edge" x1="310" y1="50" x2="230" y2="120" />
+  <line class="edge" x1="230" y1="120" x2="230" y2="190" />
+  <line class="edge" x1="310" y1="50" x2="290" y2="120" />
+  <line class="edge" x1="310" y1="50" x2="350" y2="120" />
+  <line class="edge" x1="310" y1="50" x2="410" y2="120" />
+  <line class="edge" x1="310" y1="50" x2="470" y2="120" />
+  <circle class="node" cx="50" cy="190" r="20" />
+  <text class="text" x="50" y="190">3</text>
+  <circle class="node" cx="110" cy="190" r="20" />
+  <text class="text" x="110" y="190">4</text>
+  <circle class="node" cx="170" cy="190" r="20" />
+  <text class="text" x="170" y="190">5</text>
+  <circle class="node" cx="110" cy="120" r="20" />
+  <text class="text" x="110" y="120">2</text>
+  <circle class="node" cx="230" cy="190" r="20" />
+  <text class="text" x="230" y="190">7</text>
+  <circle class="node" cx="230" cy="120" r="20" />
+  <text class="text" x="230" y="120">6</text>
+  <circle class="node" cx="290" cy="120" r="20" />
+  <text class="text" x="290" y="120">8</text>
+  <circle class="node" cx="350" cy="120" r="20" />
+  <text class="text" x="350" y="120">9</text>
+  <circle class="node" cx="410" cy="120" r="20" />
+  <text class="text" x="410" y="120">10</text>
+  <circle class="node" cx="470" cy="120" r="20" />
+  <text class="text" x="470" y="120">11</text>
+  <circle class="node" cx="310" cy="50" r="20" />
+  <text class="text" x="310" y="50">1</text>
+</svg>
