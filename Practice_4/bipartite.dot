@@ -1,0 +1,16 @@
+graph Bipartite {
+    rankdir=LR;
+    node [shape=circle];
+    { rank=same; L1; L2; L3; L4; }
+    { rank=same; R1; R2; R3; R4; }
+    L1 -- R1 [label="7"];
+    L1 -- R2 [label="5", color=red, penwidth=2.5];
+    L1 -- R4 [label="9"];
+    L2 -- R1 [label="6"];
+    L2 -- R3 [label="4", color=red, penwidth=2.5];
+    L3 -- R2 [label="8"];
+    L3 -- R3 [label="3"];
+    L3 -- R4 [label="2", color=red, penwidth=2.5];
+    L4 -- R1 [label="5", color=red, penwidth=2.5];
+    L4 -- R4 [label="6"];
+}
