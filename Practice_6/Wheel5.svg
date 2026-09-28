@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="740">
+  <style>
+    .edge { stroke: #90CAF9; stroke-width: 2px; }
+    .node { fill: #E3F2FD; stroke: #1E88E5; stroke-width: 2px; }
+    .text { font-family: Arial, sans-serif; font-size: 14px; text-anchor: middle; dominant-baseline: central; fill: #0D47A1; font-weight: bold; }
+  </style>
+  <line class="edge" x1="658.68" y1="370" x2="426.18" y2="50" />
+  <line class="edge" x1="658.68" y1="370" x2="426.18" y2="690" />
+  <line class="edge" x1="658.68" y1="370" x2="322.21" y2="370" />
+  <line class="edge" x1="426.18" y1="50" x2="50" y2="172.23" />
+  <line class="edge" x1="426.18" y1="50" x2="322.21" y2="370" />
+  <line class="edge" x1="50" y1="172.23" x2="50" y2="567.77" />
+  <line class="edge" x1="50" y1="172.23" x2="322.21" y2="370" />
+  <line class="edge" x1="50" y1="567.77" x2="426.18" y2="690" />
+  <line class="edge" x1="50" y1="567.77" x2="322.21" y2="370" />
+  <line class="edge" x1="426.18" y1="690" x2="322.21" y2="370" />
+  <circle class="node" cx="658.68" cy="370" r="18" />
+  <text class="text" x="658.68" y="370">1</text>
+  <circle class="node" cx="426.18" cy="50" r="18" />
+  <text class="text" x="426.18" y="50">2</text>
+  <circle class="node" cx="50" cy="172.23" r="18" />
+  <text class="text" x="50" y="172.23">3</text>
+  <circle class="node" cx="50" cy="567.77" r="18" />
+  <text class="text" x="50" y="567.77">4</text>
+  <circle class="node" cx="426.18" cy="690" r="18" />
+  <text class="text" x="426.18" y="690">5</text>
+  <circle class="node" cx="322.21" cy="370" r="18" />
+  <text class="text" x="322.21" y="370">6</text>
+</svg>
